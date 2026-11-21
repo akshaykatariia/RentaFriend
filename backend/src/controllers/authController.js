@@ -25,7 +25,7 @@ const registerUser = async (req, res) => {
         const user = await User.create({
             name,
             email,
-            password: passwordHash
+            passwordHash
         });
 
         res.status(201).json({
