@@ -1,2 +1,2 @@
-# RentaFriend
-A platform to find and book companions for activities and social experiences
+# AdviceConnect
+A platform where users book paid one-on-one advice sessions with verified advisors.
